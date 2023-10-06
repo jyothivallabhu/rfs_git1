@@ -1,0 +1,20 @@
+[20-Jul-2016 08:30:13 UTC] PHP Fatal error:  Call to a member function validate() on a non-object in /home/oristep/public_html/demos/Dollarstaffing/application/employer/controllers/Login.php on line 195
+[20-Jul-2016 08:30:21 UTC] PHP Fatal error:  Call to a member function validate() on a non-object in /home/oristep/public_html/demos/Dollarstaffing/application/employer/controllers/Login.php on line 195
+[20-Jul-2016 08:33:12 UTC] PHP Fatal error:  Call to a member function validate() on a non-object in /home/oristep/public_html/demos/Dollarstaffing/application/employer/controllers/Login.php on line 195
+[20-Jul-2016 08:33:33 UTC] PHP Fatal error:  Call to a member function validate() on a non-object in /home/oristep/public_html/demos/Dollarstaffing/application/employer/controllers/Login.php on line 195
+[07-Sep-2016 13:51:44 UTC] PHP Fatal error:  Call to undefined method Pages_model::getLessPages() in /home/oristep/public_html/empower/application/admin/controllers/Pages.php on line 35
+[07-Sep-2016 14:03:52 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/oristep/public_html/empower/application/admin/controllers/Pages.php on line 237
+[07-Sep-2016 14:18:34 UTC] PHP Fatal error:  Call to undefined method Pages_model::getLessPages() in /home/oristep/public_html/empower/application/admin/controllers/Pages.php on line 35
+[07-Sep-2016 14:22:58 UTC] PHP Fatal error:  Call to undefined method Pages_model::getLessPages() in /home/oristep/public_html/empower/application/admin/controllers/Pages.php on line 35
+[27-Jan-2017 10:50:15 UTC] PHP Fatal error:  Call to a member function getDetails() on a non-object in /home/oristep/public_html/genetictestindia.com/application/admin/controllers/Registration.php on line 44
+[27-Jan-2017 10:50:24 UTC] PHP Fatal error:  Call to a member function getDetails() on a non-object in /home/oristep/public_html/genetictestindia.com/application/admin/controllers/Registration.php on line 44
+[27-Jan-2017 10:50:32 UTC] PHP Fatal error:  Call to a member function getDetails() on a non-object in /home/oristep/public_html/genetictestindia.com/application/admin/controllers/Registration.php on line 44
+[27-Jan-2017 10:50:41 UTC] PHP Fatal error:  Call to a member function getDetails() on a non-object in /home/oristep/public_html/genetictestindia.com/application/admin/controllers/Registration.php on line 44
+[27-Jan-2017 10:50:51 UTC] PHP Fatal error:  Call to a member function getDetails() on a non-object in /home/oristep/public_html/genetictestindia.com/application/admin/controllers/Registration.php on line 44
+[27-Jan-2017 10:51:05 UTC] PHP Fatal error:  Call to a member function getDetails() on a non-object in /home/oristep/public_html/genetictestindia.com/application/admin/controllers/Registration.php on line 44
+[27-Jan-2017 10:51:24 UTC] PHP Fatal error:  Call to a member function getDetails() on a non-object in /home/oristep/public_html/genetictestindia.com/application/admin/controllers/Registration.php on line 44
+[27-Jan-2017 10:51:40 UTC] PHP Fatal error:  Call to a member function getDetails() on a non-object in /home/oristep/public_html/genetictestindia.com/application/admin/controllers/Registration.php on line 44
+[27-Jan-2017 10:53:09 UTC] PHP Fatal error:  Call to a member function getDetails() on a non-object in /home/oristep/public_html/genetictestindia.com/application/admin/controllers/Registration.php on line 44
+[28-Jan-2017 08:08:34 UTC] PHP Fatal error:  Call to a member function getDetails() on a non-object in /home/oristep/public_html/genetictestindia.com/application/admin/controllers/Registration.php on line 44
+[24-Jan-2023 11:50:53 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/pp1x0i284z60/public_html/application/parent/controllers/Artwork.php on line 328
+[24-Jan-2023 11:51:07 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/pp1x0i284z60/public_html/application/parent/controllers/Artwork.php on line 328
